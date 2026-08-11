@@ -1,0 +1,15 @@
+# Dados de usuários e chaves pessoais
+user_data/
+.key_*
+base_giorge.txt
+base_usuario.txt
+
+# Configurações e segredos
+.env
+.env_key
+.streamlit/secrets.toml
+
+# Pastas de ambiente e cache do Python
+__pycache__/
+.venv/
+venv/
